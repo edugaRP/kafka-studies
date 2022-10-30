@@ -1,4 +1,4 @@
-package br.com.alura.ecommerce;
+package br.com.kafka.ecommerce;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
